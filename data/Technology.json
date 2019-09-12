@@ -68,12 +68,12 @@
       "link": "/Which-Lockheed-military-plane-was-more-technologically-advanced-the-SR-71-Blackbird-or-the-U2"
    },
    {
-      "title": "Why do people say that the Cloud Platform is a trap when it comes to spending money?",
-      "link": "/Why-do-people-say-that-the-Cloud-Platform-is-a-trap-when-it-comes-to-spending-money"
-   },
-   {
       "title": "Is programming all about copy-pasting these days?",
       "link": "/Is-programming-all-about-copy-pasting-these-days"
+   },
+   {
+      "title": "Why do people say that the Cloud Platform is a trap when it comes to spending money?",
+      "link": "/Why-do-people-say-that-the-Cloud-Platform-is-a-trap-when-it-comes-to-spending-money"
    },
    {
       "title": "What tech company did the worst betrayal to its customers?",
@@ -84,16 +84,20 @@
       "link": "/What-are-some-open-source-projects-with-the-largest-complexity-by-lines-of-code-or-developer-effort"
    },
    {
-      "title": "What are some strange 2019 internet trends?",
-      "link": "/What-are-some-strange-2019-internet-trends"
-   },
-   {
       "title": "What vintage technology prices will remind us how far we've come?",
       "link": "/What-vintage-technology-prices-will-remind-us-how-far-weve-come"
    },
    {
+      "title": "What are some strange 2019 internet trends?",
+      "link": "/What-are-some-strange-2019-internet-trends"
+   },
+   {
       "title": "What is new in the programming world?",
       "link": "/What-is-new-in-the-programming-world"
+   },
+   {
+      "title": "Can technology become too complex that the civilization that created it can no longer understand it? How can humans delay or prevent such an outcome?",
+      "link": "/Can-technology-become-too-complex-that-the-civilization-that-created-it-can-no-longer-understand-it-How-can-humans-delay-or-prevent-such-an-outcome"
    },
    {
       "title": "What are some things that shouldn't be added to Minecraft?",
@@ -104,10 +108,6 @@
       "link": "/Why-was-Steve-Jobs-never-interested-in-collaborating-with-Android"
    },
    {
-      "title": "Can technology become too complex that the civilization that created it can no longer understand it? How can humans delay or prevent such an outcome?",
-      "link": "/Can-technology-become-too-complex-that-the-civilization-that-created-it-can-no-longer-understand-it-How-can-humans-delay-or-prevent-such-an-outcome"
-   },
-   {
       "title": "What is a cool tech hack that you've done?",
       "link": "/What-is-a-cool-tech-hack-that-youve-done"
    },
@@ -116,8 +116,8 @@
       "link": "/For-a-British-person-who-has-traveled-to-the-United-States-which-technological-advances-most-impress-you"
    },
    {
-      "title": "Why can’t computers use English?",
-      "link": "/Why-can-t-computers-use-English"
+      "title": "What tech company do you think should not exist?",
+      "link": "/What-tech-company-do-you-think-should-not-exist"
    },
    {
       "title": "Can the “internet of things” be used to spy on us?",
@@ -128,24 +128,24 @@
       "link": "/What-is-one-feature-in-mobile-phones-which-most-phones-dont-have-but-should-have"
    },
    {
-      "title": "What tech company do you think should not exist?",
-      "link": "/What-tech-company-do-you-think-should-not-exist"
-   },
-   {
-      "title": "How close to victory is the United States in crushing China and securing total technological dominance?",
-      "link": "/How-close-to-victory-is-the-United-States-in-crushing-China-and-securing-total-technological-dominance"
-   },
-   {
-      "title": "What are the strangest facts about the internet?",
-      "link": "/What-are-the-strangest-facts-about-the-internet"
+      "title": "Why can’t computers use English?",
+      "link": "/Why-can-t-computers-use-English"
    },
    {
       "title": "What's something you used to skimp on, until you tried high quality, and now you can't go back?",
       "link": "/Whats-something-you-used-to-skimp-on-until-you-tried-high-quality-and-now-you-cant-go-back"
    },
    {
+      "title": "How close to victory is the United States in crushing China and securing total technological dominance?",
+      "link": "/How-close-to-victory-is-the-United-States-in-crushing-China-and-securing-total-technological-dominance"
+   },
+   {
       "title": "What is the creepiest science fiction technology?",
       "link": "/What-is-the-creepiest-science-fiction-technology"
+   },
+   {
+      "title": "What are the strangest facts about the internet?",
+      "link": "/What-are-the-strangest-facts-about-the-internet"
    },
    {
       "title": "In retrospect, what were some funny idiosyncrasies of older computers?",
@@ -156,8 +156,8 @@
       "link": "/Why-is-Grindr-a-niche-mobile-dating-app-officially-a-U-S-national-security-risk"
    },
    {
-      "title": "Why was Concorde's cockpit so complex?",
-      "link": "/Why-was-Concordes-cockpit-so-complex"
+      "title": "What is a 'bug that became a feature' in real life?",
+      "link": "/What-is-a-bug-that-became-a-feature-in-real-life"
    },
    {
       "title": "The laptop was invented by Adam Osborne in 1981. Why is Adam Osborne not as well known as Steve Jobs and/or Steve Wozniak?",
@@ -172,6 +172,10 @@
       "link": "/What-are-some-of-the-weirdest-features-of-Iron-Mans-suit"
    },
    {
+      "title": "Is Elon Musk telling the truth or exaggerating when he said the new computer chips in Tesla cars are the best chips in the world by a huge margin?",
+      "link": "/Is-Elon-Musk-telling-the-truth-or-exaggerating-when-he-said-the-new-computer-chips-in-Tesla-cars-are-the-best-chips-in-the-world-by-a-huge-margin"
+   },
+   {
       "title": "How does KissAnime not get shut down?",
       "link": "/How-does-KissAnime-not-get-shut-down"
    },
@@ -184,12 +188,12 @@
       "link": "/Is-there-a-lack-of-technology-in-NHS-hospitals-compared-to-American-hospitals"
    },
    {
-      "title": "Why are languages still learnt when translation technology is so readily available?",
-      "link": "/Why-are-languages-still-learnt-when-translation-technology-is-so-readily-available"
+      "title": "Why was Concorde's cockpit so complex?",
+      "link": "/Why-was-Concordes-cockpit-so-complex"
    },
    {
-      "title": "What is a 'bug that became a feature' in real life?",
-      "link": "/What-is-a-bug-that-became-a-feature-in-real-life"
+      "title": "Why are languages still learnt when translation technology is so readily available?",
+      "link": "/Why-are-languages-still-learnt-when-translation-technology-is-so-readily-available"
    },
    {
       "title": "Is it really true that we are able to see only 3% of the internet as the rest is deep web?",
@@ -200,10 +204,6 @@
       "link": "/What-was-Googles-biggest-flop"
    },
    {
-      "title": "Is Elon Musk telling the truth or exaggerating when he said the new computer chips in Tesla cars are the best chips in the world by a huge margin?",
-      "link": "/Is-Elon-Musk-telling-the-truth-or-exaggerating-when-he-said-the-new-computer-chips-in-Tesla-cars-are-the-best-chips-in-the-world-by-a-huge-margin"
-   },
-   {
       "title": "What technologies commonly used in science fiction make you uncomfortable?",
       "link": "/What-technologies-commonly-used-in-science-fiction-make-you-uncomfortable"
    },
@@ -212,8 +212,12 @@
       "link": "/Will-Amazon-still-exist-in-20-years"
    },
    {
-      "title": "What are some interesting things that you start to notice with a large internet following?",
-      "link": "/What-are-some-interesting-things-that-you-start-to-notice-with-a-large-internet-following"
+      "title": "Why aren't people making important scientific discoveries or technological advances today like in the past 200 years?",
+      "link": "/Why-arent-people-making-important-scientific-discoveries-or-technological-advances-today-like-in-the-past-200-years"
+   },
+   {
+      "title": "If NASA were to send astronauts to the Moon today in 2019, wouldn't it be much easier compared to the 1970's since technology has evolved so much?",
+      "link": "/If-NASA-were-to-send-astronauts-to-the-Moon-today-in-2019-wouldnt-it-be-much-easier-compared-to-the-1970s-since-technology-has-evolved-so-much"
    },
    {
       "title": "If people can make a 1TB storage device, why can't they make 1TB of RAM?",
@@ -228,12 +232,8 @@
       "link": "/What-is-the-tech-stack-behind-Slack"
    },
    {
-      "title": "Why aren't people making important scientific discoveries or technological advances today like in the past 200 years?",
-      "link": "/Why-arent-people-making-important-scientific-discoveries-or-technological-advances-today-like-in-the-past-200-years"
-   },
-   {
-      "title": "How was it possible to send people to the Moon in 1969, when the computers they used had such sub-par specs compared to today?",
-      "link": "/How-was-it-possible-to-send-people-to-the-Moon-in-1969-when-the-computers-they-used-had-such-sub-par-specs-compared-to-today"
+      "title": "What are some interesting things that you start to notice with a large internet following?",
+      "link": "/What-are-some-interesting-things-that-you-start-to-notice-with-a-large-internet-following"
    },
    {
       "title": "What does Silicon Valley fundamentally misunderstand about Chinese tech companies?",
@@ -244,16 +244,24 @@
       "link": "/What-has-been-effective-in-your-classroom-to-dissuade-the-use-of-cell-phones"
    },
    {
-      "title": "Does Africa have internet?",
-      "link": "/Does-Africa-have-internet"
+      "title": "Did Apple anticipate that people would point out that the Mac Pro looked like a cheese grater?",
+      "link": "/Did-Apple-anticipate-that-people-would-point-out-that-the-Mac-Pro-looked-like-a-cheese-grater"
    },
    {
       "title": "Why did Trump say California is a disgrace to the country? Isn't it the richest state in the nation, with smartest technology people and home to world class companies such as Google, Facebook, Apple, Intel, AMD, Salesforce, Tesla and many others?",
       "link": "/Why-did-Trump-say-California-is-a-disgrace-to-the-country-Isnt-it-the-richest-state-in-the-nation-with-smartest-technology-people-and-home-to-world-class-companies-such-as-Google-Facebook-Apple-Intel-AMD-Salesforce"
    },
    {
+      "title": "How was it possible to send people to the Moon in 1969, when the computers they used had such sub-par specs compared to today?",
+      "link": "/How-was-it-possible-to-send-people-to-the-Moon-in-1969-when-the-computers-they-used-had-such-sub-par-specs-compared-to-today"
+   },
+   {
       "title": "What is your news today?",
       "link": "/What-is-your-news-today"
+   },
+   {
+      "title": "Do tech companies put hidden unrelated software code in their products so that they can prove cases of stolen technology?",
+      "link": "/Do-tech-companies-put-hidden-unrelated-software-code-in-their-products-so-that-they-can-prove-cases-of-stolen-technology"
    },
    {
       "title": "How would Steve Jobs react if he saw foldable phones?",
@@ -264,24 +272,20 @@
       "link": "/Why-was-so-much-ancient-Roman-technology-lost-in-the-Middle-Ages"
    },
    {
-      "title": "Do tech companies put hidden unrelated software code in their products so that they can prove cases of stolen technology?",
-      "link": "/Do-tech-companies-put-hidden-unrelated-software-code-in-their-products-so-that-they-can-prove-cases-of-stolen-technology"
+      "title": "What inventors product came back to bite them (figuratively)?",
+      "link": "/What-inventors-product-came-back-to-bite-them-figuratively"
    },
    {
       "title": "If you’ve spent a long time in prison, what technology did you find hardest to adjust to when you were released?",
       "link": "/If-you-ve-spent-a-long-time-in-prison-what-technology-did-you-find-hardest-to-adjust-to-when-you-were-released"
    },
    {
-      "title": "What inventors product came back to bite them (figuratively)?",
-      "link": "/What-inventors-product-came-back-to-bite-them-figuratively"
-   },
-   {
-      "title": "Did Apple anticipate that people would point out that the Mac Pro looked like a cheese grater?",
-      "link": "/Did-Apple-anticipate-that-people-would-point-out-that-the-Mac-Pro-looked-like-a-cheese-grater"
-   },
-   {
       "title": "To primitive civilizations, would modern humans (aliens) with medicine and technology be deemed divine?",
       "link": "/To-primitive-civilizations-would-modern-humans-aliens-with-medicine-and-technology-be-deemed-divine"
+   },
+   {
+      "title": "Does Africa have internet?",
+      "link": "/Does-Africa-have-internet"
    },
    {
       "title": "Why haven’t solar roadways become more widely used?",
@@ -296,23 +300,19 @@
       "link": "/What-are-the-best-new-products-or-inventions-that-most-people-dont-know-about"
    },
    {
-      "title": "Why is it dangerous that China is leading 5G?",
-      "link": "/Why-is-it-dangerous-that-China-is-leading-5G"
+      "title": "What was the pre-technology equivalent of online dating?",
+      "link": "/What-was-the-pre-technology-equivalent-of-online-dating"
    },
    {
-      "title": "What is the best way to generate a truly guaranteed random number with technology?",
-      "link": "/What-is-the-best-way-to-generate-a-truly-guaranteed-random-number-with-technology"
+      "title": "Why is it dangerous that China is leading 5G?",
+      "link": "/Why-is-it-dangerous-that-China-is-leading-5G"
    },
    {
       "title": "Why did other nations never attempt to develop tiltrotor aircraft technology? Why is the US investing in this kind of technology?",
       "link": "/Why-did-other-nations-never-attempt-to-develop-tiltrotor-aircraft-technology-Why-is-the-US-investing-in-this-kind-of-technology"
    },
    {
-      "title": "Is anybody still using Windows 95 in 2019?",
-      "link": "/Is-anybody-still-using-Windows-95-in-2019"
-   },
-   {
-      "title": "Answered Sep 2, 2019",
-      "link": "/Is-anybody-still-using-Windows-95-in-2019/answers/164911133"
+      "title": "What is the best way to generate a truly guaranteed random number with technology?",
+      "link": "/What-is-the-best-way-to-generate-a-truly-guaranteed-random-number-with-technology"
    }
 ]

@@ -2,7 +2,10 @@ import Nightmare from 'nightmare'
 import tress from 'tress';
 import { parseHtml } from './parse';
 
-const nightmare = Nightmare({ show: false })
+const nightmare = Nightmare({ 
+  show: true,
+  electronPath: require('electron') 
+})
 nightmare.withScroll = withScroll;
 
 const targetLinks = [
@@ -19,7 +22,7 @@ const q = tress((link, done) => {
     // .type('#search_form_input_homepage', 'github nightmare')
     // .click('#search_button_homepage')
     // .wait('#r1-0 a.result__a')
-    .withScroll(50)
+    .withScroll(100)
     .evaluate(() => document.querySelector('body').innerHTML)
     .then((html) => {
       parseHtml(link)(html);

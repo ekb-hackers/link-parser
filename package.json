@@ -5,14 +5,17 @@
   "main": "index.js",
   "scripts": {
     "start": "backpack src/index.js",
+    "start:send": "backpack src/send.js",
     "build": "backpack build src/index.js",
     "docker:start": "xvfb-run node --harmony build/main.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "backpack-core": "^0.8.4",
     "cheerio": "^1.0.0-rc.3",
+    "electron": "^6.0.9",
     "nightmare": "^3.0.2",
     "tress": "^1.1.4"
   }
