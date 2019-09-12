@@ -1,0 +1,354 @@
+[
+   {
+      "title": "Quora",
+      "link": "/"
+   },
+   {
+      "title": "Does differentiating x with respect to x² make sense? If yes, then how will you evaluate it geometrically and logically?",
+      "link": "/Does-differentiating-x-with-respect-to-x²-make-sense-If-yes-then-how-will-you-evaluate-it-geometrically-and-logically"
+   },
+   {
+      "title": "Let f:N→Nf:N→N with f(n)=⌊n+n−−√+12⌋f(n)=⌊n+n+12⌋. What is f(N)f(N)?",
+      "link": "/Let-f-mathbb-N-rightarrow-mathbb-N-with-f-n-lfloor-n-sqrt-n-frac-1-2-rfloor-What-is-f-mathbb-N"
+   },
+   {
+      "title": "Is there a mathematical function that converts two numbers into one so that the two numbers can always be extracted again?",
+      "link": "/Is-there-a-mathematical-function-that-converts-two-numbers-into-one-so-that-the-two-numbers-can-always-be-extracted-again"
+   },
+   {
+      "title": "Suppose I'm an early mathematician looking for the function f(x)f(x) that satisfies f′(x)=f(x)f′(x)=f(x). How do I find that f(x)f(x) is the exponential function exex?",
+      "link": "/Suppose-Im-an-early-mathematician-looking-for-the-function-f-x-that-satisfies-f-x-f-x-How-do-I-find-that-f-x-is-the-exponential-function-e-x"
+   },
+   {
+      "title": "How can one find a proof that lim(x,y)→(0,0)xyx2+y2√lim(x,y)→(0,0)xyx2+y2 exists?",
+      "link": "/How-can-one-find-a-proof-that-lim_-x-y-to-0-0-frac-xy-sqrt-x-2-y-2-exists"
+   },
+   {
+      "title": "When is a+ba+b not equal to b+ab+a?",
+      "link": "/When-is-a-b-not-equal-to-b-a"
+   },
+   {
+      "title": "If 3!3! is 3×2×13×2×1 then what is 1.5!1.5!?",
+      "link": "/If-3-is-3-times-2-times-1-then-what-is-1-5"
+   },
+   {
+      "title": "What would the graph of (-1) ^x look like?",
+      "link": "/What-would-the-graph-of-1-x-look-like"
+   },
+   {
+      "title": "Do you think this is a complicated integral ∫x21+x5dx∫x21+x5dx? How would you solve it?",
+      "link": "/Do-you-think-this-is-a-complicated-integral-int-frac-x-2-1-x-5-textrm-d-x-How-would-you-solve-it"
+   },
+   {
+      "title": "Why do higher degree polynomial equations not have a \"simple\" way of solving them like those to 4th degree?",
+      "link": "/Why-do-higher-degree-polynomial-equations-not-have-a-simple-way-of-solving-them-like-those-to-4th-degree"
+   },
+   {
+      "title": "What is something that is designed very poorly in theory, yet somehow functions flawlessly?",
+      "link": "/What-is-something-that-is-designed-very-poorly-in-theory-yet-somehow-functions-flawlessly"
+   },
+   {
+      "title": "What is the solution to the weird integral logarithm expression ln(∑∞α=1(∫∞0xα−1e−x20182018[(α−1)!]2dx))ln⁡(∑α=1∞(∫0∞xα−1e−x20182018[(α−1)!]2dx))?",
+      "link": "/What-is-the-solution-to-the-weird-integral-logarithm-expression-ln-left-sum_-alpha-1-infty-left-int_-0-infty-frac-x-alpha-1-e-frac-x-2018-2018-alpha-1-2-d-x-right-right"
+   },
+   {
+      "title": "In programming why is x=x+1 a possible? Wouldn't this be an infinitely recursive sequence because you are altering the value of x, therefore altering x+1?",
+      "link": "/In-programming-why-is-x-x-1-a-possible-Wouldnt-this-be-an-infinitely-recursive-sequence-because-you-are-altering-the-value-of-x-therefore-altering-x-1"
+   },
+   {
+      "title": "How do you find all functions f:R→Rf:R→R such that f(x)≥0f(x)≥0 for all xx and f(x+y)=f(x)+f(y)+2f(x)f(y)−−−−−−−√f(x+y)=f(x)+f(y)+2f(x)f(y)? What if f:R+→Rf:R+→R?",
+      "link": "/How-do-you-find-all-functions-f-mathbb-R-rightarrow-mathbb-R-such-that-f-x-geq-0-for-all-x-and-f-x-y-f-x-f-y-2-sqrt-f-x-f-y-What-if-f-mathbb-R_-rightarrow-mathbb-R"
+   },
+   {
+      "title": "What is f(x)f(x) if f(1x)+f(1−x)=xf(1x)+f(1−x)=x?",
+      "link": "/What-is-f-x-if-f-left-dfrac-1-x-right-f-1-x-x"
+   },
+   {
+      "title": "How do you get the indefinite integral of this?",
+      "link": "/How-do-you-get-the-indefinite-integral-of-this"
+   },
+   {
+      "title": "How can I show that x2−4x2−4 is a factor of x6−64x6−64 without using long division or synthetic division?",
+      "link": "/How-can-I-show-that-x-2-4-is-a-factor-of-x-6-64-without-using-long-division-or-synthetic-division"
+   },
+   {
+      "title": "If f(2x−1)=xf(2x−1)=x, what is f(2)f(2)?",
+      "link": "/If-f-2x-1-x-what-is-f-2"
+   },
+   {
+      "title": "What are the solutions to the equation x!y!z!=(x+y+z)!x!y!z!=(x+y+z)!?",
+      "link": "/What-are-the-solutions-to-the-equation-x-y-z-x-y-z-4"
+   },
+   {
+      "title": "How can I show that if T is a triangular number, then 8T+1 is a perfect square?",
+      "link": "/How-can-I-show-that-if-T-is-a-triangular-number-then-8T-1-is-a-perfect-square"
+   },
+   {
+      "title": "How do I solve xn+1=−xn+6xn−1+5⋅2n,x0=0,x1=0xn+1=−xn+6xn−1+5⋅2n,x0=0,x1=0?",
+      "link": "/How-do-I-solve-x_-n-1-x_-n-6x_-n-1-5-cdot-2-n-x_-0-0-x_-1-0"
+   },
+   {
+      "title": "If sin(x) = 2, what is x?",
+      "link": "/If-sin-x-2-what-is-x"
+   },
+   {
+      "title": "Does every equation that has ππ in it have something to do with circles?",
+      "link": "/Does-every-equation-that-has-pi-in-it-have-something-to-do-with-circles"
+   },
+   {
+      "title": "What is the coolest mathematical function?",
+      "link": "/What-is-the-coolest-mathematical-function"
+   },
+   {
+      "title": "Can someone help me prove that 6x2+12x+8=y36x2+12x+8=y3 has no positive integer solution?",
+      "link": "/Can-someone-help-me-prove-that-6x-2-12x-8-y-3-has-no-positive-integer-solution"
+   },
+   {
+      "title": "What kind of functions in Python need the two underscores on both sides of the function name?",
+      "link": "/What-kind-of-functions-in-Python-need-the-two-underscores-on-both-sides-of-the-function-name"
+   },
+   {
+      "title": "Why don't we just invent math that will allow us to solve problems like x^x = 2 so we don't have to use numerical methods?",
+      "link": "/Why-dont-we-just-invent-math-that-will-allow-us-to-solve-problems-like-x-x-2-so-we-dont-have-to-use-numerical-methods"
+   },
+   {
+      "title": "Is sinx=x∏∞k=1(x−kπ)(x+kπ)sin⁡x=x∏k=1∞(x−kπ)(x+kπ) valid?",
+      "link": "/Is-sin-x-x-prod_-k-1-infty-x-k-pi-x-k-pi-valid"
+   },
+   {
+      "title": "How do I evaluate dndxnsin(x)xdndxnsin⁡(x)x using Leibniz’s Theorem?",
+      "link": "/How-do-I-evaluate-dfrac-mathrm-d-mathrm-n-mathrm-dx-mathrm-n-dfrac-sin-x-x-using-Leibniz-s-Theorem"
+   },
+   {
+      "title": "How would you explain trigonometric functions to a 10 year old?",
+      "link": "/How-would-you-explain-trigonometric-functions-to-a-10-year-old"
+   },
+   {
+      "title": "How can I prove that ∫∞0x−⌊x⌋−121+x dx=12ln2π−1∫0∞x−⌊x⌋−121+x dx=12ln⁡2π−1?",
+      "link": "/How-can-I-prove-that-int_0-infty-frac-x-left-lfloor-x-right-rfloor-frac-1-2-1-x-dx-frac-1-2-ln-2-pi-1"
+   },
+   {
+      "title": "Why does Wolfram Alpha think there is no solution to x! =eˣ when 0 is obviously a solution?",
+      "link": "/Why-does-Wolfram-Alpha-think-there-is-no-solution-to-x-eˣ-when-0-is-obviously-a-solution"
+   },
+   {
+      "title": "How do I solve f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x) for all f:R→Rf:R→R?",
+      "link": "/How-do-I-solve-f-x-f-x-y-f-xy-x-f-x-y-yf-x-for-all-f-mathbf-R-to-mathbf-R"
+   },
+   {
+      "title": "How can I find all positive integers nnsuch that 12n−119 and 75n−53912n−119 and 75n−539 are both perfect squares?",
+      "link": "/How-can-I-find-all-positive-integers-n-such-that-12n-119-text-and-75n-539-are-both-perfect-squares"
+   },
+   {
+      "title": "What is the limit limx→yxy−yxxx−yylimx→yxy−yxxx−yy?",
+      "link": "/What-is-the-limit-lim_-x-to-y-frac-x-y-y-x-x-x-y-y"
+   },
+   {
+      "title": "Does −1−1 factorial, (−1)!(−1)!, exist? If it doesn't exist, why not? If it does exist, what is it?",
+      "link": "/Does-1-factorial-1-exist-If-it-doesnt-exist-why-not-If-it-does-exist-what-is-it"
+   },
+   {
+      "title": "How do you determine if a function is equal to the limit of its Taylor Series, given that the series' interval of convergence is (-∞,∞)?",
+      "link": "/How-do-you-determine-if-a-function-is-equal-to-the-limit-of-its-Taylor-Series-given-that-the-series-interval-of-convergence-is"
+   },
+   {
+      "title": "What's the intuition behind this infinite sum ∑n≥0n2=0∑n≥0n2=0 ?",
+      "link": "/Whats-the-intuition-behind-this-infinite-sum-sum_-n-geq-0-n-2-0"
+   },
+   {
+      "title": "How do you find the limit of x−ln(1+x)x2x−ln(1+x)x2 when xx approaches 0+,0+, without L'Hopital's rule or expansion series?",
+      "link": "/How-do-you-find-the-limit-of-frac-x-ln-1-x-x-2-when-x-approaches-0-without-LHopitals-rule-or-expansion-series"
+   },
+   {
+      "title": "How do I solve n!=479001600n!=479001600 algebraically?",
+      "link": "/How-do-I-solve-n-479001600-algebraically"
+   },
+   {
+      "title": "If the function f(x)=e−x2f(x)=e−x2 has no antiderivative then how does Desmos calculate its definite integral?",
+      "link": "/If-the-function-f-x-e-x-2-has-no-antiderivative-then-how-does-Desmos-calculate-its-definite-integral"
+   },
+   {
+      "title": "Does it make sense to ask to solve for x in equations like sin(x)=x? Isn't the first x an angle and the second a number? How do you even know if x is in radians, degrees or gradians?",
+      "link": "/Does-it-make-sense-to-ask-to-solve-for-x-in-equations-like-sin-x-x-Isnt-the-first-x-an-angle-and-the-second-a-number-How-do-you-even-know-if-x-is-in-radians-degrees-or-gradians"
+   },
+   {
+      "title": "How do you prove that ∑ni=11i3<54∑i=1n1i3<54?",
+      "link": "/How-do-you-prove-that-sum_-i-1-n-frac-1-i-3-frac-5-4"
+   },
+   {
+      "title": "Is there a function f:N→Nf:N→N that satisfies f2003(n)=5nf2003(n)=5n ∀n∈N∀n∈N?",
+      "link": "/Is-there-a-function-f-mathbb-N-mathbb-N-that-satisfies-f-2003-n-5n-forall-n-in-mathbb-N"
+   },
+   {
+      "title": "What is x if ln(x) = e^x?",
+      "link": "/What-is-x-if-ln-x-e-x"
+   },
+   {
+      "title": "How can I evaluate ∫ab2⌊x⌋dx∫ba2⌊x⌋dx given that a≥b;a,b∈Za≥b;a,b∈ℤ?",
+      "link": "/How-can-I-evaluate-int_b-a-2-lfloor-x-rfloor-mathrm-d-x-given-that-a-geq-b-a-b-in-ℤ"
+   },
+   {
+      "title": "Is there a function from the reals to the reals which is everywhere differentiable but whose derivative is discontinuous everywhere?",
+      "link": "/Is-there-a-function-from-the-reals-to-the-reals-which-is-everywhere-differentiable-but-whose-derivative-is-discontinuous-everywhere"
+   },
+   {
+      "title": "If f(n)f(n) is the sum of digits of nn in base 1010,what is f(f(f(44444444)))f(f(f(44444444))) ?",
+      "link": "/If-f-n-is-the-sum-of-digits-of-n-in-base-10-what-is-f-f-f-4444-4444"
+   },
+   {
+      "title": "Is it possible to have a function that has a first, but not a second, derivative at some point or throughout some interval?",
+      "link": "/Is-it-possible-to-have-a-function-that-has-a-first-but-not-a-second-derivative-at-some-point-or-throughout-some-interval"
+   },
+   {
+      "title": "Why doesn’t ∫∞−∞xdx=0∫−∞∞xdx=0?",
+      "link": "/Why-doesn-t-displaystyle-int_-infty-infty-x-mathrm-d-x-0"
+   },
+   {
+      "title": "How can a function be its own derivative?",
+      "link": "/How-can-a-function-be-its-own-derivative"
+   },
+   {
+      "title": "How could I repeat a function every 5 minutes in python without affecting the rest of the code (Using time.sleep() delays the whole application)?",
+      "link": "/How-could-I-repeat-a-function-every-5-minutes-in-python-without-affecting-the-rest-of-the-code-Using-time-sleep-delays-the-whole-application"
+   },
+   {
+      "title": "How can you solve this crazy integral ∫10ln2(τ)τ2+1dτ∫01ln2⁡(τ)τ2+1dτ?",
+      "link": "/How-can-you-solve-this-crazy-integral-int_-0-1-frac-ln-2-tau-tau-2-1-d-tau"
+   },
+   {
+      "title": "What is nn if (n+1)!(n−1)!=30(n+1)!(n−1)!=30 ? How do you solve this algebraically without guessing?",
+      "link": "/What-is-n-if-dfrac-n-1-n-1-30-How-do-you-solve-this-algebraically-without-guessing"
+   },
+   {
+      "title": "If f(x)=ax3+bx2+cxf(x)=ax3+bx2+cx and f(1)f(1),f(−1)f(−1), and f(−2)f(−2) are all integers, then for all n∈Zn∈Z, is f(n)∈Zf(n)∈Z? Why or why not?",
+      "link": "/If-f-x-ax-3-bx-2-cx-and-f-1-f-1-and-f-2-are-all-integers-then-for-all-n-in-Z-is-f-n-in-Z-Why-or-why-not"
+   },
+   {
+      "title": "Is it possible to find all polynomials p(x)p(x) such that p(x2)={p(x)}2p(x2)={p(x)}2?",
+      "link": "/Is-it-possible-to-find-all-polynomials-p-x-such-that-p-x-2-p-x-2"
+   },
+   {
+      "title": "What is the value of eiei? Does it have any special significance?",
+      "link": "/What-is-the-value-of-e-i-Does-it-have-any-special-significance"
+   },
+   {
+      "title": "Why is Moore’s Law always shown as linear? Shouldn't it be exponential?",
+      "link": "/Why-is-Moore-s-Law-always-shown-as-linear-Shouldnt-it-be-exponential"
+   },
+   {
+      "title": "Can you find all continuous functions f:R→Rf:R→R that, given a nonzero constant αα, satisfy f(f(x+y))=f(αx)+αf(y)f(f(x+y))=f(αx)+αf(y)?",
+      "link": "/Can-you-find-all-continuous-functions-f-mathbb-R-rightarrow-mathbb-R-that-given-a-nonzero-constant-alpha-satisfy-f-f-x-y-f-alpha-x-alpha-f-y"
+   },
+   {
+      "title": "What are elementary functions?",
+      "link": "/What-are-elementary-functions"
+   },
+   {
+      "title": "Is there a general way to find the sum of “n” numbers for any function? I know there are formulas for finding the sum of whole numbers their squares and their cubes. But what about the sum of sqrt(x) or ln(x)?",
+      "link": "/Is-there-a-general-way-to-find-the-sum-of-n-numbers-for-any-function-I-know-there-are-formulas-for-finding-the-sum-of-whole-numbers-their-squares-and-their-cubes-But-what-about-the-sum-of-sqrt-x-or-ln-x"
+   },
+   {
+      "title": "How do you find all functions ff :R2→RR2→R that satisfy f(A)+f(B)+f(C)+f(D)=0f(A)+f(B)+f(C)+f(D)=0 whenever the points A,B,CA,B,C and DD form a square in the 2-dimensional plane?",
+      "link": "/How-do-you-find-all-functions-f-mathbb-R-2-rightarrow-mathbb-R-that-satisfy-f-A-f-B-f-C-f-D-0-whenever-the-points-A-B-C-and-D-form-a-square-in-the-2-dimensional-plane"
+   },
+   {
+      "title": "Is a differentiable function always computable?",
+      "link": "/Is-a-differentiable-function-always-computable"
+   },
+   {
+      "title": "What is the sum of all the internal angles of an octagon?",
+      "link": "/What-is-the-sum-of-all-the-internal-angles-of-an-octagon"
+   },
+   {
+      "title": "How does an interchange limit interact with definite integrals?",
+      "link": "/How-does-an-interchange-limit-interact-with-definite-integrals"
+   },
+   {
+      "title": "How can one prove this equation? ∫∞−∞e−αt2cos(ωt)dt=πα−−√e−ω24α∫−∞∞e−αt2cos⁡(ωt)dt=παe−ω24α",
+      "link": "/How-can-one-prove-this-equation-int_-infty-infty-e-alpha-t-2-cos-omega-t-mathrm-d-t-sqrt-frac-pi-alpha-e-frac-omega-2-4-alpha"
+   },
+   {
+      "title": "Do all functions have an absolute max or min?",
+      "link": "/Do-all-functions-have-an-absolute-max-or-min"
+   },
+   {
+      "title": "What is the solution for sinx = 2?",
+      "link": "/What-is-the-solution-for-sinx-2"
+   },
+   {
+      "title": "What are all the functions f:R→Rf:R→R such that f(x)+f(y)=f(x+y)f(x)+f(y)=f(x+y) and f(x2019)=f(x)2019f(x2019)=f(x)2019?",
+      "link": "/What-are-all-the-functions-f-mathbb-R-mathbb-R-such-that-f-x-f-y-f-x-y-and-f-x-2019-f-x-2019"
+   },
+   {
+      "title": "How would you find all real solutions of xx with 0=36x12−144x10−97x8+388x6+36x4−144x20=36x12−144x10−97x8+388x6+36x4−144x2?",
+      "link": "/How-would-you-find-all-real-solutions-of-x-with-0-36-x-12-144-x-10-97-x-8-388-x-6-36-x-4-144-x-2"
+   },
+   {
+      "title": "Why is the second derivative of a function represented as (d²y/dx²) and not (d²y/d²x²)?",
+      "link": "/Why-is-the-second-derivative-of-a-function-represented-as-d²y-dx²-and-not-d²y-d²x²"
+   },
+   {
+      "title": "Is there a function whose output is always irrational?",
+      "link": "/Is-there-a-function-whose-output-is-always-irrational"
+   },
+   {
+      "title": "If (a-b) (b-c) (c-a) =a+b+c and a, b, c are positive integers, what is the minimum of (a+b+c)?",
+      "link": "/If-a-b-b-c-c-a-a-b-c-and-a-b-c-are-positive-integers-what-is-the-minimum-of-a-b-c"
+   },
+   {
+      "title": "How do I prove that exex is irrational, where x∈Nx∈N ?",
+      "link": "/How-do-I-prove-that-e-x-is-irrational-where-x-in-mathbb-N"
+   },
+   {
+      "title": "What does the “e” constant represent in calculus?",
+      "link": "/What-does-the-e-constant-represent-in-calculus"
+   },
+   {
+      "title": "Is there a continuous version of product, like integrals for sums?",
+      "link": "/Is-there-a-continuous-version-of-product-like-integrals-for-sums"
+   },
+   {
+      "title": "Are there ways different from using taylor series to prove Euler's Formula eiΘ=cos(Θ)+isin(Θ)eiΘ=cos⁡(Θ)+isin⁡(Θ) ?",
+      "link": "/Are-there-ways-different-from-using-taylor-series-to-prove-Eulers-Formula-e-i-Theta-cos-Theta-i-sin-Theta"
+   },
+   {
+      "title": "Why do we use function pointers in computer programming?",
+      "link": "/Why-do-we-use-function-pointers-in-computer-programming"
+   },
+   {
+      "title": "How do I find a function in NN with the remarkable property f(mn)=f(m)f(mn)=f(m)+f(n)f(n)?",
+      "link": "/How-do-I-find-a-function-in-mathbb-N-with-the-remarkable-property-f-mn-f-m-f-n"
+   },
+   {
+      "title": "How can you find the minima of x2!x2!?",
+      "link": "/How-can-you-find-the-minima-of-x-2"
+   },
+   {
+      "title": "What are the possible values for n if there is an injective homomorphism from ZnZn to S7S7?",
+      "link": "/What-are-the-possible-values-for-n-if-there-is-an-injective-homomorphism-from-Z_-n-to-S_-7"
+   },
+   {
+      "title": "How do I find all functions f:N→Nf:N→N such that f(f(f(n)))+f(f(n))+f(n)=3nf(f(f(n)))+f(f(n))+f(n)=3n for all positive integers nn?",
+      "link": "/How-do-I-find-all-functions-f-mathbb-N-rightarrow-mathbb-N-such-that-f-f-f-n-f-f-n-f-n-3n-for-all-positive-integers-n"
+   },
+   {
+      "title": "How do I solve this homogeneous differential equation y′=x2+y23xyy′=x2+y23xy?",
+      "link": "/How-do-I-solve-this-homogeneous-differential-equation-y-frac-x-2-y-2-3xy"
+   },
+   {
+      "title": "How do you solve 3x2=94x+63x2=94x+6?",
+      "link": "/How-do-you-solve-3-x-2-9-4x-+6"
+   },
+   {
+      "title": "What is the closed form of ∑∞n=0x2n(2n)!n!∑n=0∞x2n(2n)!n!?",
+      "link": "/What-is-the-closed-form-of-sum_-n-0-infty-frac-x-2n-2n-n"
+   },
+   {
+      "title": "Should we teach functions as sets of ordered pairs?",
+      "link": "/Should-we-teach-functions-as-sets-of-ordered-pairs"
+   },
+   {
+      "title": "Is there a function, similar to the gamma function, that makes continuous the concept of adding all prior consecutive integers of a value x?",
+      "link": "/Is-there-a-function-similar-to-the-gamma-function-that-makes-continuous-the-concept-of-adding-all-prior-consecutive-integers-of-a-value-x"
+   }
+]

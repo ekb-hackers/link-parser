@@ -1,0 +1,17 @@
+{
+  "name": "night",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "backpack src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backpack-core": "^0.8.4",
+    "cheerio": "^1.0.0-rc.3",
+    "nightmare": "^3.0.2",
+    "tress": "^1.1.4"
+  }
+}
