@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "backpack src/index.js"
+    "start": "backpack src/index.js",
+    "build": "backpack build src/index.js",
+    "docker:start": "xvfb-run node --harmony build/main.js"
   },
   "author": "",
   "license": "ISC",

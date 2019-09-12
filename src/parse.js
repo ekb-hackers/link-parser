@@ -37,6 +37,6 @@ export const parseHtml = (filename) =>(html) => {
     links[link] = true;
   })
 
-  fs.writeFileSync(`./${filename}.json`, JSON.stringify(data, null, 3))
+  fs.writeFileSync(`./data/${filename}.json`, JSON.stringify(data, null, 3))
   console.log('success', data.length)
 }

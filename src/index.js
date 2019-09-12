@@ -2,7 +2,7 @@ import Nightmare from 'nightmare'
 import tress from 'tress';
 import { parseHtml } from './parse';
 
-const nightmare = Nightmare({ show: true })
+const nightmare = Nightmare({ show: false })
 nightmare.withScroll = withScroll;
 
 const targetLinks = [

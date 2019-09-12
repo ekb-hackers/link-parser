@@ -12,12 +12,12 @@
       "link": "/Why-dont-birds-have-propellers-instead-of-wings"
    },
    {
-      "title": "Is there a science to picking colors that work well together or is it just subjective?",
-      "link": "/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective"
-   },
-   {
       "title": "Who is the most underrated fashion designer working today?",
       "link": "/Who-is-the-most-underrated-fashion-designer-working-today"
+   },
+   {
+      "title": "Is there a science to picking colors that work well together or is it just subjective?",
+      "link": "/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective"
    },
    {
       "title": "What criteria are used by designers when choosing typefaces?",
@@ -26,10 +26,6 @@
    {
       "title": "User Experience Design: How do you get a job as a designer without going to design school?",
       "link": "/User-Experience-Design-How-do-you-get-a-job-as-a-designer-without-going-to-design-school"
-   },
-   {
-      "title": "How Can I find the best UI/UX designers in New Jersey?",
-      "link": "/How-Can-I-find-the-best-UI-UX-designers-in-New-Jersey"
    },
    {
       "title": "What skills do you think most designers have under-invested in?",
@@ -52,16 +48,20 @@
       "link": "/Who-is-the-best-Web-Designing-Service-Provider"
    },
    {
+      "title": "How Can I find the best UI/UX designers in New Jersey?",
+      "link": "/How-Can-I-find-the-best-UI-UX-designers-in-New-Jersey"
+   },
+   {
       "title": "What are the tips to create a killer business brochure design?",
       "link": "/What-are-the-tips-to-create-a-killer-business-brochure-design"
    },
    {
-      "title": "What do old graphic designers think of young graphic designers of today?",
-      "link": "/What-do-old-graphic-designers-think-of-young-graphic-designers-of-today"
-   },
-   {
       "title": "Who designed Google Maps and where are they now?",
       "link": "/Who-designed-Google-Maps-and-where-are-they-now"
+   },
+   {
+      "title": "What do old graphic designers think of young graphic designers of today?",
+      "link": "/What-do-old-graphic-designers-think-of-young-graphic-designers-of-today"
    },
    {
       "title": "What are the reputed graphic design companies in India?",
@@ -104,12 +104,12 @@
       "link": "/Why-do-UX-designers-earn-more-than-UI-designers"
    },
    {
-      "title": "Who are the best web designers in Seattle?",
-      "link": "/Who-are-the-best-web-designers-in-Seattle"
-   },
-   {
       "title": "How can I become a self-made professional motion graphics designer?",
       "link": "/How-can-I-become-a-self-made-professional-motion-graphics-designer"
+   },
+   {
+      "title": "Who are the best web designers in Seattle?",
+      "link": "/Who-are-the-best-web-designers-in-Seattle"
    },
    {
       "title": "What are some of the coolest apps for a graphic designer?",
@@ -128,20 +128,16 @@
       "link": "/Who-are-the-best-UI-UX-designers-in-Germany"
    },
    {
+      "title": "What car brand is overrated?",
+      "link": "/What-car-brand-is-overrated"
+   },
+   {
       "title": "How do you spot a bad graphic designer?",
       "link": "/How-do-you-spot-a-bad-graphic-designer"
    },
    {
       "title": "How can I learn to be a good product designer?",
       "link": "/How-can-I-learn-to-be-a-good-product-designer"
-   },
-   {
-      "title": "What car brand is overrated?",
-      "link": "/What-car-brand-is-overrated"
-   },
-   {
-      "title": "Can I see an example of your graphic design skills?",
-      "link": "/Can-I-see-an-example-of-your-graphic-design-skills"
    },
    {
       "title": "What are the things that car designers care about but most of the public (car drivers) are unaware of?",
@@ -152,10 +148,6 @@
       "link": "/How-can-you-make-100k+-anually-as-a-graphic-designer"
    },
    {
-      "title": "What are the best Photoshop techniques that most designers don't know?",
-      "link": "/What-are-the-best-Photoshop-techniques-that-most-designers-dont-know"
-   },
-   {
       "title": "Why is it so hard to find UX talent?",
       "link": "/Why-is-it-so-hard-to-find-UX-talent"
    },
@@ -164,44 +156,48 @@
       "link": "/Why-dont-more-designers-code"
    },
    {
+      "title": "Can I see an example of your graphic design skills?",
+      "link": "/Can-I-see-an-example-of-your-graphic-design-skills"
+   },
+   {
       "title": "Why should designers work at Quora?",
       "link": "/Why-should-designers-work-at-Quora"
    },
    {
-      "title": "Why do people become graphic designers?",
-      "link": "/Why-do-people-become-graphic-designers"
-   },
-   {
-      "title": "What are the best design companies in Berlin  Germany?",
-      "link": "/What-are-the-best-design-companies-in-Berlin-Germany"
-   },
-   {
-      "title": "Who are the best UI/UX designers in India?",
-      "link": "/Who-are-the-best-UI-UX-designers-in-India"
-   },
-   {
-      "title": "What are the best web design firms/people in San Francisco?",
-      "link": "/What-are-the-best-web-design-firms-people-in-San-Francisco"
-   },
-   {
-      "title": "Which are the best design studio in india?",
-      "link": "/Which-are-the-best-design-studio-in-india"
+      "title": "What are the best Photoshop techniques that most designers don't know?",
+      "link": "/What-are-the-best-Photoshop-techniques-that-most-designers-dont-know"
    },
    {
       "title": "What's it like to be a LEGO designer?",
       "link": "/Whats-it-like-to-be-a-LEGO-designer"
    },
    {
+      "title": "Who are the best UI/UX designers in India?",
+      "link": "/Who-are-the-best-UI-UX-designers-in-India"
+   },
+   {
+      "title": "Which are the best design studio in india?",
+      "link": "/Which-are-the-best-design-studio-in-india"
+   },
+   {
+      "title": "What are the best design companies in Berlin  Germany?",
+      "link": "/What-are-the-best-design-companies-in-Berlin-Germany"
+   },
+   {
       "title": "Why are UX designers paid so high compare to programmers?",
       "link": "/Why-are-UX-designers-paid-so-high-compare-to-programmers"
+   },
+   {
+      "title": "Why do people become graphic designers?",
+      "link": "/Why-do-people-become-graphic-designers"
    },
    {
       "title": "How can I learn to become an expert UI/UX designer?",
       "link": "/How-can-I-learn-to-become-an-expert-UI-UX-designer"
    },
    {
-      "title": "What are some things that need to be redesigned?",
-      "link": "/What-are-some-things-that-need-to-be-redesigned"
+      "title": "What are the best web design firms/people in San Francisco?",
+      "link": "/What-are-the-best-web-design-firms-people-in-San-Francisco"
    },
    {
       "title": "What advice do you think is important for software designers in 2017?",
@@ -220,6 +216,10 @@
       "link": "/Whats-the-best-way-to-troll-a-user-experience-designer"
    },
    {
+      "title": "Why do most programmers prefer dark UI in IDE's ?",
+      "link": "/Why-do-most-programmers-prefer-dark-UI-in-IDEs"
+   },
+   {
       "title": "What should a beginner graphic designer do?",
       "link": "/What-should-a-beginner-graphic-designer-do"
    },
@@ -228,20 +228,20 @@
       "link": "/What-are-some-of-the-best-gifts-for-graphic-designers"
    },
    {
-      "title": "Why do most programmers prefer dark UI in IDE's ?",
-      "link": "/Why-do-most-programmers-prefer-dark-UI-in-IDEs"
-   },
-   {
-      "title": "What is the importance of a graphic designer, and will they ever be obsolete?",
-      "link": "/What-is-the-importance-of-a-graphic-designer-and-will-they-ever-be-obsolete"
-   },
-   {
       "title": "What traits of human psychology are used by designers to their advantage when designing women’s clothes?",
       "link": "/What-traits-of-human-psychology-are-used-by-designers-to-their-advantage-when-designing-women’s-clothes"
    },
    {
+      "title": "What are some things that need to be redesigned?",
+      "link": "/What-are-some-things-that-need-to-be-redesigned"
+   },
+   {
       "title": "Answered Jan 23, 2015",
       "link": "/How-can-I-learn-to-become-an-expert-UI-UX-designer/answers/9365538"
+   },
+   {
+      "title": "Should I leave my design studio to work in-house as a designer? I run a hip boutique design studio in New York City and my designer friends who've gone in-house tell me it's the best career move they've made. Are they onto something?",
+      "link": "/Should-I-leave-my-design-studio-to-work-in-house-as-a-designer-I-run-a-hip-boutique-design-studio-in-New-York-City-and-my-designer-friends-whove-gone-in-house-tell-me-its-the-best-career-move-theyve-made-Are-they-onto-something"
    },
    {
       "title": "How can I learn to become a professional brand designer when I have learned software?",
@@ -252,23 +252,19 @@
       "link": "/What-are-the-best-web-design-agencies-that-are-affordable"
    },
    {
-      "title": "Should I leave my design studio to work in-house as a designer? I run a hip boutique design studio in New York City and my designer friends who've gone in-house tell me it's the best career move they've made. Are they onto something?",
-      "link": "/Should-I-leave-my-design-studio-to-work-in-house-as-a-designer-I-run-a-hip-boutique-design-studio-in-New-York-City-and-my-designer-friends-whove-gone-in-house-tell-me-its-the-best-career-move-theyve-made-Are-they-onto-something"
-   },
-   {
       "title": "How technical do Product Designers need to be in order to be effective at their job?",
       "link": "/How-technical-do-Product-Designers-need-to-be-in-order-to-be-effective-at-their-job"
-   },
-   {
-      "title": "How do I get freelance work as a UI/UX designer?",
-      "link": "/How-do-I-get-freelance-work-as-a-UI-UX-designer"
    },
    {
       "title": "How much does it cost to hire a professional web designer?",
       "link": "/How-much-does-it-cost-to-hire-a-professional-web-designer"
    },
    {
-      "title": "What are the best productivity tools for designers?",
-      "link": "/What-are-the-best-productivity-tools-for-designers"
+      "title": "How do I get freelance work as a UI/UX designer?",
+      "link": "/How-do-I-get-freelance-work-as-a-UI-UX-designer"
+   },
+   {
+      "title": "What are some important things a graphic designer needs to know that universities doesn't teach?",
+      "link": "/What-are-some-important-things-a-graphic-designer-needs-to-know-that-universities-doesnt-teach"
    }
 ]
